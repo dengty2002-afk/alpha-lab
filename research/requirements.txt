@@ -1,0 +1,12 @@
+# Install into research/.venv only; requirements-lock.txt is the reproducible environment.
+pyqlib==0.9.7
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.7.2
+lightgbm==4.7.0
+pyarrow==25.0.1
+alphalens-reloaded==0.4.6
+pytest==9.1.1
+baostock==0.9.3
+akshare==1.18.96

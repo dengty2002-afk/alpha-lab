@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quant-platform-research"
+version = "0.1.0"
+description = "Reproducible local daily-equity research worker"
+requires-python = ">=3.12,<3.13"
+dependencies = ["pyqlib==0.9.7", "numpy>=2.0,<2.3", "pandas>=2.2,<3", "scipy", "scikit-learn>=1.5,<1.8", "lightgbm>=4,<5", "pyarrow", "alphalens-reloaded", "baostock", "akshare"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+filterwarnings = ["ignore:The default observed=False:FutureWarning"]

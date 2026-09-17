@@ -1,0 +1,2864 @@
+{
+  "note": "Installed/package-lock metadata inventory, not a legal review. Package license files remain authoritative.",
+  "python": [
+    {
+      "name": "aiohappyeyeballs",
+      "version": "2.7.1",
+      "licenseMetadata": "Python Software Foundation License",
+      "projectUrl": [
+        "Bug Tracker, https://github.com/aio-libs/aiohappyeyeballs/issues",
+        "Changelog, https://github.com/aio-libs/aiohappyeyeballs/blob/main/CHANGELOG.md",
+        "Documentation, https://aiohappyeyeballs.readthedocs.io",
+        "Repository, https://github.com/aio-libs/aiohappyeyeballs"
+      ]
+    },
+    {
+      "name": "aiohttp",
+      "version": "3.14.3",
+      "licenseMetadata": "Apache-2.0 AND MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/aio-libs/aiohttp",
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Actions, https://github.com/aio-libs/aiohttp/actions?query=workflow%3ACI",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/aiohttp",
+        "Docs: Changelog, https://docs.aiohttp.org/en/stable/changes.html",
+        "Docs: RTD, https://docs.aiohttp.org",
+        "GitHub: issues, https://github.com/aio-libs/aiohttp/issues",
+        "GitHub: repo, https://github.com/aio-libs/aiohttp"
+      ]
+    },
+    {
+      "name": "aiosignal",
+      "version": "1.4.0",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "Chat: Gitter, https://gitter.im/aio-libs/Lobby",
+        "CI: GitHub Actions, https://github.com/aio-libs/aiosignal/actions",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/aiosignal",
+        "Docs: RTD, https://docs.aiosignal.org",
+        "GitHub: issues, https://github.com/aio-libs/aiosignal/issues",
+        "GitHub: repo, https://github.com/aio-libs/aiosignal"
+      ]
+    },
+    {
+      "name": "akshare",
+      "version": "1.18.96",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Homepage, https://github.com/akfamily/akshare"
+      ]
+    },
+    {
+      "name": "alembic",
+      "version": "1.20.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://alembic.sqlalchemy.org",
+        "Documentation, https://alembic.sqlalchemy.org/en/latest/",
+        "Changelog, https://alembic.sqlalchemy.org/en/latest/changelog.html",
+        "Source, https://github.com/sqlalchemy/alembic/",
+        "Issue Tracker, https://github.com/sqlalchemy/alembic/issues/"
+      ]
+    },
+    {
+      "name": "alphalens-reloaded",
+      "version": "0.4.6",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "homepage, https://ml4trading.io",
+        "repository, https://github.com/stefan-jansen/alphalens-reloaded",
+        "documentation, https://alphalens.ml4trading.io"
+      ]
+    },
+    {
+      "name": "annotated-doc",
+      "version": "0.0.5",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/fastapi/annotated-doc",
+        "Documentation, https://github.com/fastapi/annotated-doc",
+        "Repository, https://github.com/fastapi/annotated-doc",
+        "Issues, https://github.com/fastapi/annotated-doc/issues",
+        "Changelog, https://github.com/fastapi/annotated-doc/release-notes.md"
+      ]
+    },
+    {
+      "name": "annotated-types",
+      "version": "0.8.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/annotated-types/annotated-types",
+        "Source, https://github.com/annotated-types/annotated-types",
+        "Changelog, https://github.com/annotated-types/annotated-types/releases"
+      ]
+    },
+    {
+      "name": "anyio",
+      "version": "4.15.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://anyio.readthedocs.io/en/latest/",
+        "Changelog, https://anyio.readthedocs.io/en/stable/versionhistory.html",
+        "Source code, https://github.com/agronholm/anyio",
+        "Issue tracker, https://github.com/agronholm/anyio/issues"
+      ]
+    },
+    {
+      "name": "argon2-cffi",
+      "version": "25.1.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://argon2-cffi.readthedocs.io/",
+        "Changelog, https://github.com/hynek/argon2-cffi/blob/main/CHANGELOG.md",
+        "GitHub, https://github.com/hynek/argon2-cffi",
+        "Funding, https://github.com/sponsors/hynek",
+        "Tidelift, https://tidelift.com/?utm_source=lifter&utm_medium=referral&utm_campaign=hynek"
+      ]
+    },
+    {
+      "name": "argon2-cffi-bindings",
+      "version": "26.1.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Tidelift, https://tidelift.com/?utm_source=lifter&utm_medium=referral&utm_campaign=hynek",
+        "Changelog, https://github.com/hynek/argon2-cffi-bindings/blob/main/CHANGELOG.md",
+        "GitHub, https://github.com/hynek/argon2-cffi-bindings",
+        "Funding, https://github.com/sponsors/hynek"
+      ]
+    },
+    {
+      "name": "arrow",
+      "version": "1.4.0",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "Documentation, https://arrow.readthedocs.io",
+        "Issues, https://github.com/arrow-py/arrow/issues",
+        "Source, https://github.com/arrow-py/arrow"
+      ]
+    },
+    {
+      "name": "asttokens",
+      "version": "3.0.2",
+      "licenseMetadata": "Apache 2.0",
+      "projectUrl": [
+        "Documentation, https://asttokens.readthedocs.io/en/latest/index.html",
+        "Issue Tracker, https://github.com/gristlabs/asttokens/issues"
+      ]
+    },
+    {
+      "name": "async-lru",
+      "version": "2.3.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Actions, https://github.com/aio-libs/async-lru/actions",
+        "GitHub: repo, https://github.com/aio-libs/async-lru"
+      ]
+    },
+    {
+      "name": "attrs",
+      "version": "26.1.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://www.attrs.org/",
+        "Changelog, https://www.attrs.org/en/stable/changelog.html",
+        "GitHub, https://github.com/python-attrs/attrs",
+        "Funding, https://github.com/sponsors/hynek",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-attrs?utm_source=pypi-attrs&utm_medium=pypi"
+      ]
+    },
+    {
+      "name": "babel",
+      "version": "2.18.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Source, https://github.com/python-babel/babel"
+      ]
+    },
+    {
+      "name": "baostock",
+      "version": "0.9.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "beautifulsoup4",
+      "version": "4.15.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Download, https://www.crummy.com/software/BeautifulSoup/bs4/download/",
+        "Homepage, https://www.crummy.com/software/BeautifulSoup/bs4/"
+      ]
+    },
+    {
+      "name": "bleach",
+      "version": "6.4.0",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": []
+    },
+    {
+      "name": "blinker",
+      "version": "1.9.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://blinker.readthedocs.io",
+        "Source, https://github.com/pallets-eco/blinker/"
+      ]
+    },
+    {
+      "name": "Bottleneck",
+      "version": "1.6.0",
+      "licenseMetadata": "Simplified BSD",
+      "projectUrl": []
+    },
+    {
+      "name": "cachetools",
+      "version": "7.2.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/tkem/cachetools/",
+        "Documentation, https://cachetools.readthedocs.io/en/stable/",
+        "Source, https://github.com/tkem/cachetools/",
+        "Repository, https://github.com/tkem/cachetools/",
+        "Issues, https://github.com/tkem/cachetools/issues",
+        "Changelog, https://github.com/tkem/cachetools/blob/master/CHANGELOG.rst"
+      ]
+    },
+    {
+      "name": "certifi",
+      "version": "2026.7.22",
+      "licenseMetadata": "Mozilla Public License 2.0 (MPL 2.0)",
+      "projectUrl": [
+        "Source, https://github.com/certifi/python-certifi"
+      ]
+    },
+    {
+      "name": "cffi",
+      "version": "2.1.1",
+      "licenseMetadata": "MIT-0",
+      "projectUrl": [
+        "Documentation, https://cffi.readthedocs.io/",
+        "Changelog, https://cffi.readthedocs.io/en/latest/whatsnew.html",
+        "Download, https://github.com/python-cffi/cffi/releases",
+        "Contact, https://groups.google.com/forum/#!forum/python-cffi",
+        "Source Code, https://github.com/python-cffi/cffi",
+        "Issue Tracker, https://github.com/python-cffi/cffi/issues"
+      ]
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Changelog, https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+        "Documentation, https://charset-normalizer.readthedocs.io/",
+        "Code, https://github.com/jawah/charset_normalizer",
+        "Issue tracker, https://github.com/jawah/charset_normalizer/issues"
+      ]
+    },
+    {
+      "name": "clarabel",
+      "version": "0.11.1",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Source Code, https://github.com/oxfordcontrol/Clarabel.rs"
+      ]
+    },
+    {
+      "name": "click",
+      "version": "8.5.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Changes, https://click.palletsprojects.com/page/changes/",
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://click.palletsprojects.com/",
+        "Donate, https://palletsprojects.com/donate",
+        "Source, https://github.com/pallets/click/"
+      ]
+    },
+    {
+      "name": "cloudpickle",
+      "version": "3.1.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "colorama",
+      "version": "0.4.6",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/tartley/colorama"
+      ]
+    },
+    {
+      "name": "comm",
+      "version": "0.2.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/ipython/comm"
+      ]
+    },
+    {
+      "name": "contourpy",
+      "version": "1.4.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/contourpy/contourpy",
+        "Changelog, https://contourpy.readthedocs.io/en/latest/changelog.html",
+        "Documentation, https://contourpy.readthedocs.io",
+        "Repository, https://github.com/contourpy/contourpy"
+      ]
+    },
+    {
+      "name": "cryptography",
+      "version": "50.0.1",
+      "licenseMetadata": "Apache-2.0 OR BSD-3-Clause",
+      "projectUrl": [
+        "changelog, https://cryptography.io/en/latest/changelog/",
+        "documentation, https://cryptography.io/",
+        "homepage, https://github.com/pyca/cryptography",
+        "issues, https://github.com/pyca/cryptography/issues",
+        "source, https://github.com/pyca/cryptography/"
+      ]
+    },
+    {
+      "name": "curl_cffi",
+      "version": "0.16.3",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "repository, https://github.com/lexiforest/curl_cffi"
+      ]
+    },
+    {
+      "name": "cvxpy",
+      "version": "1.9.2",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://github.com/cvxpy/cvxpy"
+      ]
+    },
+    {
+      "name": "cycler",
+      "version": "0.12.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "homepage, https://matplotlib.org/cycler/",
+        "repository, https://github.com/matplotlib/cycler"
+      ]
+    },
+    {
+      "name": "databricks-sdk",
+      "version": "0.139.0",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "Documentation, https://databricks-sdk-py.readthedocs.io"
+      ]
+    },
+    {
+      "name": "debugpy",
+      "version": "1.8.22",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Source, https://github.com/microsoft/debugpy"
+      ]
+    },
+    {
+      "name": "decorator",
+      "version": "5.3.1",
+      "licenseMetadata": "BSD-2-Clause",
+      "projectUrl": []
+    },
+    {
+      "name": "defusedxml",
+      "version": "0.7.1",
+      "licenseMetadata": "Python Software Foundation License",
+      "projectUrl": []
+    },
+    {
+      "name": "dill",
+      "version": "0.4.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Documentation, http://dill.rtfd.io",
+        "Source Code, https://github.com/uqfoundation/dill",
+        "Bug Tracker, https://github.com/uqfoundation/dill/issues"
+      ]
+    },
+    {
+      "name": "dnspython",
+      "version": "2.8.0",
+      "licenseMetadata": "ISC License (ISCL)",
+      "projectUrl": [
+        "homepage, https://www.dnspython.org",
+        "repository, https://github.com/rthalley/dnspython.git",
+        "documentation, https://dnspython.readthedocs.io/en/stable/",
+        "issues, https://github.com/rthalley/dnspython/issues"
+      ]
+    },
+    {
+      "name": "docker",
+      "version": "7.2.0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Changelog, https://docker-py.readthedocs.io/en/stable/change-log.html",
+        "Documentation, https://docker-py.readthedocs.io",
+        "Homepage, https://github.com/docker/docker-py",
+        "Source, https://github.com/docker/docker-py",
+        "Tracker, https://github.com/docker/docker-py/issues"
+      ]
+    },
+    {
+      "name": "empyrical-reloaded",
+      "version": "0.5.12",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "homepage, https://ml4trading.io",
+        "documentation, https://empyrical.ml4trading.io",
+        "repository, https://github.com/stefan-jansen/empyrical-reloaded"
+      ]
+    },
+    {
+      "name": "et_xmlfile",
+      "version": "2.0.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Documentation, https://openpyxl.pages.heptapod.net/et_xmlfile/",
+        "Source, https://foss.heptapod.net/openpyxl/et_xmlfile",
+        "Tracker, https://foss.heptapod.net/openpyxl/et_xmfile/-/issues"
+      ]
+    },
+    {
+      "name": "executing",
+      "version": "2.2.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "fastapi",
+      "version": "0.141.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/fastapi/fastapi",
+        "Documentation, https://fastapi.tiangolo.com/",
+        "Repository, https://github.com/fastapi/fastapi",
+        "Issues, https://github.com/fastapi/fastapi/issues",
+        "Changelog, https://fastapi.tiangolo.com/release-notes/"
+      ]
+    },
+    {
+      "name": "fastjsonschema",
+      "version": "2.22.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "filelock",
+      "version": "4.0.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://py-filelock.readthedocs.io",
+        "Homepage, https://github.com/tox-dev/py-filelock",
+        "Source, https://github.com/tox-dev/py-filelock",
+        "Tracker, https://github.com/tox-dev/py-filelock/issues"
+      ]
+    },
+    {
+      "name": "fire",
+      "version": "0.7.1",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://github.com/google/python-fire",
+        "Repository, https://github.com/google/python-fire"
+      ]
+    },
+    {
+      "name": "Flask",
+      "version": "3.1.3",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Changes, https://flask.palletsprojects.com/page/changes/",
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://flask.palletsprojects.com/",
+        "Donate, https://palletsprojects.com/donate",
+        "Source, https://github.com/pallets/flask/"
+      ]
+    },
+    {
+      "name": "flask-cors",
+      "version": "6.0.5",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://corydolphin.github.io/flask-cors/",
+        "Repository, https://github.com/corydolphin/flask-cors",
+        "Documentation, https://corydolphin.github.io/flask-cors/"
+      ]
+    },
+    {
+      "name": "fonttools",
+      "version": "4.65.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": []
+    },
+    {
+      "name": "formulaic",
+      "version": "1.2.2",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "repository, https://github.com/matthewwardrop/formulaic",
+        "documentation, https://matthewwardrop.github.io/formulaic"
+      ]
+    },
+    {
+      "name": "fqdn",
+      "version": "1.5.1",
+      "licenseMetadata": "Mozilla Public License 2.0 (MPL 2.0)",
+      "projectUrl": []
+    },
+    {
+      "name": "frozenlist",
+      "version": "1.8.0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: Github Actions, https://github.com/aio-libs/frozenlist/actions",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/frozenlist",
+        "Docs: Changelog, https://github.com/aio-libs/frozenlist/blob/master/CHANGES.rst#changelog",
+        "Docs: RTD, https://frozenlist.aio-libs.org",
+        "GitHub: issues, https://github.com/aio-libs/frozenlist/issues",
+        "GitHub: repo, https://github.com/aio-libs/frozenlist"
+      ]
+    },
+    {
+      "name": "gitdb",
+      "version": "4.0.12",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "GitPython",
+      "version": "3.1.62",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": []
+    },
+    {
+      "name": "google-auth",
+      "version": "2.58.0",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": []
+    },
+    {
+      "name": "graphene",
+      "version": "3.4.3",
+      "licenseMetadata": "MIT",
+      "projectUrl": []
+    },
+    {
+      "name": "graphql-core",
+      "version": "3.2.12",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "graphql-relay",
+      "version": "3.2.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "greenlet",
+      "version": "3.5.6",
+      "licenseMetadata": "MIT AND PSF-2.0",
+      "projectUrl": [
+        "Homepage, https://greenlet.readthedocs.io",
+        "Documentation, https://greenlet.readthedocs.io",
+        "Repository, https://github.com/python-greenlet/greenlet",
+        "Issues, https://github.com/python-greenlet/greenlet/issues",
+        "Changelog, https://greenlet.readthedocs.io/en/latest/changes.html"
+      ]
+    },
+    {
+      "name": "gym",
+      "version": "0.26.2",
+      "licenseMetadata": "MIT",
+      "projectUrl": []
+    },
+    {
+      "name": "gym-notices",
+      "version": "0.1.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "h11",
+      "version": "0.16.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "highspy",
+      "version": "1.15.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Source Code, https://github.com/ERGO-Code/HiGHS",
+        "Bug Tracker, https://github.com/ERGO-Code/HiGHS/issues"
+      ]
+    },
+    {
+      "name": "html5lib",
+      "version": "1.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "httpcore",
+      "version": "1.0.9",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Documentation, https://www.encode.io/httpcore",
+        "Homepage, https://www.encode.io/httpcore/",
+        "Source, https://github.com/encode/httpcore"
+      ]
+    },
+    {
+      "name": "httpx",
+      "version": "0.28.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Changelog, https://github.com/encode/httpx/blob/master/CHANGELOG.md",
+        "Documentation, https://www.python-httpx.org",
+        "Homepage, https://github.com/encode/httpx",
+        "Source, https://github.com/encode/httpx"
+      ]
+    },
+    {
+      "name": "huey",
+      "version": "3.4.0",
+      "licenseMetadata": "not declared; inspect package license files",
+      "projectUrl": [
+        "Repository, https://github.com/coleifer/huey",
+        "Documentation, https://huey.readthedocs.io/",
+        "Changelog, https://github.com/coleifer/huey/blob/master/CHANGELOG.md"
+      ]
+    },
+    {
+      "name": "idna",
+      "version": "3.19",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Changelog, https://github.com/kjd/idna/blob/master/HISTORY.md",
+        "Issue tracker, https://github.com/kjd/idna/issues",
+        "Source, https://github.com/kjd/idna"
+      ]
+    },
+    {
+      "name": "importlib_metadata",
+      "version": "9.0.1",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Source, https://github.com/python/importlib_metadata"
+      ]
+    },
+    {
+      "name": "iniconfig",
+      "version": "2.3.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/pytest-dev/iniconfig"
+      ]
+    },
+    {
+      "name": "interface_meta",
+      "version": "2.0.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/matthewwardrop/interface_meta",
+        "Repository, https://github.com/matthewwardrop/interface_meta"
+      ]
+    },
+    {
+      "name": "ipykernel",
+      "version": "7.3.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://ipython.org",
+        "Documentation, https://ipykernel.readthedocs.io",
+        "Source, https://github.com/ipython/ipykernel",
+        "Tracker, https://github.com/ipython/ipykernel/issues"
+      ]
+    },
+    {
+      "name": "ipython",
+      "version": "9.17.1",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://ipython.org",
+        "Documentation, https://ipython.readthedocs.io/",
+        "Funding, https://jupyter.org/about#donate",
+        "Source, https://github.com/ipython/ipython",
+        "Tracker, https://github.com/ipython/ipython/issues"
+      ]
+    },
+    {
+      "name": "ipython_pygments_lexers",
+      "version": "1.1.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Source, https://github.com/ipython/ipython-pygments-lexers"
+      ]
+    },
+    {
+      "name": "ipywidgets",
+      "version": "8.1.9",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "isoduration",
+      "version": "20.11.0",
+      "licenseMetadata": "ISC License (ISCL)",
+      "projectUrl": [
+        "Repository, https://github.com/bolsote/isoduration",
+        "Bug Reports, https://github.com/bolsote/isoduration/issues",
+        "Changelog, https://github.com/bolsote/isoduration/blob/master/CHANGELOG"
+      ]
+    },
+    {
+      "name": "itsdangerous",
+      "version": "2.2.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Changes, https://itsdangerous.palletsprojects.com/changes/",
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://itsdangerous.palletsprojects.com/",
+        "Donate, https://palletsprojects.com/donate",
+        "Source, https://github.com/pallets/itsdangerous/"
+      ]
+    },
+    {
+      "name": "jedi",
+      "version": "0.20.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Documentation, https://jedi.readthedocs.io/en/latest/"
+      ]
+    },
+    {
+      "name": "Jinja2",
+      "version": "3.1.6",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Changes, https://jinja.palletsprojects.com/changes/",
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://jinja.palletsprojects.com/",
+        "Donate, https://palletsprojects.com/donate",
+        "Source, https://github.com/pallets/jinja/"
+      ]
+    },
+    {
+      "name": "joblib",
+      "version": "1.6.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://joblib.readthedocs.io",
+        "Source, https://github.com/joblib/joblib"
+      ]
+    },
+    {
+      "name": "json5",
+      "version": "0.15.0",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "Changelog, https://github.com/dpranke/pyjson5/blob/master/README.md",
+        "Issues, https://github.com/dpranke/pyjson5/issues",
+        "Repository, https://github.com/dpranke/pyjson5"
+      ]
+    },
+    {
+      "name": "jsonpath",
+      "version": "0.82.2",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "jsonpointer",
+      "version": "3.1.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "jsonschema",
+      "version": "4.26.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/python-jsonschema/jsonschema",
+        "Documentation, https://python-jsonschema.readthedocs.io/",
+        "Issues, https://github.com/python-jsonschema/jsonschema/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-jsonschema?utm_source=pypi-jsonschema&utm_medium=referral&utm_campaign=pypi-link",
+        "Changelog, https://github.com/python-jsonschema/jsonschema/blob/main/CHANGELOG.rst",
+        "Source, https://github.com/python-jsonschema/jsonschema"
+      ]
+    },
+    {
+      "name": "jsonschema-specifications",
+      "version": "2025.9.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://jsonschema-specifications.readthedocs.io/",
+        "Homepage, https://github.com/python-jsonschema/jsonschema-specifications",
+        "Issues, https://github.com/python-jsonschema/jsonschema-specifications/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-jsonschema-specifications?utm_source=pypi-jsonschema-specifications&utm_medium=referral&utm_campaign=pypi-link",
+        "Source, https://github.com/python-jsonschema/jsonschema-specifications"
+      ]
+    },
+    {
+      "name": "jupyter",
+      "version": "1.1.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "jupyter-console",
+      "version": "6.6.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter.org"
+      ]
+    },
+    {
+      "name": "jupyter-events",
+      "version": "0.12.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, http://jupyter.org",
+        "documentation, https://jupyter-events.readthedocs.io/",
+        "repository, https://github.com/jupyter/jupyter_events.git",
+        "changelog, https://github.com/jupyter/jupyter_events/blob/main/CHANGELOG.md"
+      ]
+    },
+    {
+      "name": "jupyter-lsp",
+      "version": "2.3.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Bug Tracker, https://github.com/jupyter-lsp/jupyterlab-lsp/issues",
+        "Documentation, https://jupyterlab-lsp.readthedocs.io/",
+        "Source Code, https://github.com/jupyter-lsp/jupyterlab-lsp"
+      ]
+    },
+    {
+      "name": "jupyter_builder",
+      "version": "1.2.3",
+      "licenseMetadata": "Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT",
+      "projectUrl": [
+        "Homepage, https://jupyter.org",
+        "Source, https://github.com/jupyterlab/jupyter-builder",
+        "Issues, https://github.com/jupyterlab/jupyter-builder/issues/new/choose",
+        "Zulip, https://jupyter.zulipchat.com/#narrow/channel/469762-jupyterlab",
+        "Pypi, https://pypi.org/project/jupyter-builder"
+      ]
+    },
+    {
+      "name": "jupyter_client",
+      "version": "8.10.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter.org",
+        "Documentation, https://jupyter-client.readthedocs.io/",
+        "Source, https://github.com/jupyter/jupyter_client"
+      ]
+    },
+    {
+      "name": "jupyter_core",
+      "version": "5.9.1",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://jupyter.org",
+        "Documentation, https://jupyter-core.readthedocs.io/",
+        "Source, https://github.com/jupyter/jupyter_core",
+        "Tracker, https://github.com/jupyter/jupyter_core/issues"
+      ]
+    },
+    {
+      "name": "jupyter_server",
+      "version": "2.21.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter-server.readthedocs.io",
+        "Documentation, https://jupyter-server.readthedocs.io",
+        "Funding, https://jupyter.org/about#donate",
+        "Source, https://github.com/jupyter-server/jupyter_server",
+        "Tracker, https://github.com/jupyter-server/jupyter_server/issues"
+      ]
+    },
+    {
+      "name": "jupyter_server_terminals",
+      "version": "0.5.4",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter.org",
+        "Documentation, https://jupyter-server-terminals.readthedocs.io",
+        "Funding, https://jupyter.org/about#donate",
+        "Source, https://github.com/jupyter-server/jupyter_server_terminals",
+        "Tracker, https://github.com/jupyter-server/jupyter_server_terminals/issues"
+      ]
+    },
+    {
+      "name": "jupyterlab",
+      "version": "4.6.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter.org",
+        "Changelog, https://jupyterlab.readthedocs.io/en/stable/getting_started/changelog.html",
+        "Documentation, https://jupyterlab.readthedocs.io",
+        "Source, https://github.com/jupyterlab/jupyterlab",
+        "Issues, https://github.com/jupyterlab/jupyterlab/issues/new/choose",
+        "Zulip, https://jupyter.zulipchat.com/#narrow/channel/469762-jupyterlab",
+        "Pypi, https://pypi.org/project/jupyterlab"
+      ]
+    },
+    {
+      "name": "jupyterlab_pygments",
+      "version": "0.3.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/jupyterlab/jupyterlab_pygments",
+        "Bug Tracker, https://github.com/jupyterlab/jupyterlab_pygments/issues",
+        "Repository, https://github.com/jupyterlab/jupyterlab_pygments.git"
+      ]
+    },
+    {
+      "name": "jupyterlab_server",
+      "version": "2.28.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyterlab-server.readthedocs.io",
+        "Documentation, https://jupyterlab-server.readthedocs.io",
+        "Funding, https://numfocus.org/donate-to-jupyter",
+        "Source, https://github.com/jupyterlab/jupyterlab_server",
+        "Tracker, https://github.com/jupyterlab/jupyterlab_server/issues"
+      ]
+    },
+    {
+      "name": "jupyterlab_widgets",
+      "version": "3.0.17",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/jupyter-widgets/ipywidgets"
+      ]
+    },
+    {
+      "name": "kiwisolver",
+      "version": "1.5.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "homepage, https://github.com/nucleic/kiwi",
+        "documentation, https://kiwisolver.readthedocs.io/en/latest/",
+        "repository, https://github.com/nucleic/kiwi",
+        "changelog, https://github.com/nucleic/kiwi/blob/main/releasenotes.rst"
+      ]
+    },
+    {
+      "name": "lark",
+      "version": "1.3.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Homepage, https://github.com/lark-parser/lark",
+        "Download, https://github.com/lark-parser/lark/tarball/master"
+      ]
+    },
+    {
+      "name": "lightgbm",
+      "version": "4.7.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "homepage, https://github.com/lightgbm-org/LightGBM",
+        "documentation, https://lightgbm.readthedocs.io/en/latest/",
+        "repository, https://github.com/lightgbm-org/LightGBM.git",
+        "changelog, https://github.com/lightgbm-org/LightGBM/releases"
+      ]
+    },
+    {
+      "name": "loguru",
+      "version": "0.7.3",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Changelog, https://github.com/Delgan/loguru/blob/master/CHANGELOG.rst",
+        "Documentation, https://loguru.readthedocs.io/en/stable/index.html",
+        "Homepage, https://github.com/Delgan/loguru"
+      ]
+    },
+    {
+      "name": "lxml",
+      "version": "6.1.3",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Source, https://github.com/lxml/lxml",
+        "Bug Tracker, https://bugs.launchpad.net/lxml"
+      ]
+    },
+    {
+      "name": "Mako",
+      "version": "1.4.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://www.makotemplates.org/",
+        "Documentation, https://docs.makotemplates.org",
+        "Issue Tracker, https://github.com/sqlalchemy/mako"
+      ]
+    },
+    {
+      "name": "MarkupSafe",
+      "version": "3.0.3",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Donate, https://palletsprojects.com/donate",
+        "Documentation, https://markupsafe.palletsprojects.com/",
+        "Changes, https://markupsafe.palletsprojects.com/page/changes/",
+        "Source, https://github.com/pallets/markupsafe/",
+        "Chat, https://discord.gg/pallets"
+      ]
+    },
+    {
+      "name": "matplotlib",
+      "version": "3.11.2",
+      "licenseMetadata": "Python Software Foundation License",
+      "projectUrl": [
+        "Homepage, https://matplotlib.org",
+        "Download, https://matplotlib.org/stable/install/index.html",
+        "Documentation, https://matplotlib.org",
+        "Source Code, https://github.com/matplotlib/matplotlib",
+        "Bug Tracker, https://github.com/matplotlib/matplotlib/issues",
+        "Forum, https://discourse.matplotlib.org/",
+        "Donate, https://numfocus.org/donate-to-matplotlib"
+      ]
+    },
+    {
+      "name": "matplotlib-inline",
+      "version": "0.2.2",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/ipython/matplotlib-inline"
+      ]
+    },
+    {
+      "name": "mini-racer",
+      "version": "0.14.1",
+      "licenseMetadata": "ISC",
+      "projectUrl": [
+        "Homepage, https://github.com/bpcreech/PyMiniRacer"
+      ]
+    },
+    {
+      "name": "mistune",
+      "version": "3.3.4",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Documentation, https://mistune.lepture.com/",
+        "Source, https://github.com/lepture/mistune",
+        "Donate, https://github.com/sponsors/lepture"
+      ]
+    },
+    {
+      "name": "mlflow",
+      "version": "3.16.1",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "homepage, https://mlflow.org",
+        "issues, https://github.com/mlflow/mlflow/issues",
+        "documentation, https://mlflow.org/docs/latest",
+        "repository, https://github.com/mlflow/mlflow"
+      ]
+    },
+    {
+      "name": "mlflow-skinny",
+      "version": "3.16.1",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "homepage, https://mlflow.org",
+        "issues, https://github.com/mlflow/mlflow/issues",
+        "documentation, https://mlflow.org/docs/latest",
+        "repository, https://github.com/mlflow/mlflow"
+      ]
+    },
+    {
+      "name": "mlflow-tracing",
+      "version": "3.16.1",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "homepage, https://mlflow.org",
+        "issues, https://github.com/mlflow/mlflow/issues",
+        "documentation, https://mlflow.org/docs/latest",
+        "repository, https://github.com/mlflow/mlflow"
+      ]
+    },
+    {
+      "name": "multidict",
+      "version": "6.8.0",
+      "licenseMetadata": "Apache License 2.0",
+      "projectUrl": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub, https://github.com/aio-libs/multidict/actions",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/multidict",
+        "Docs: Changelog, https://multidict.aio-libs.org/en/latest/changes/",
+        "Docs: RTD, https://multidict.aio-libs.org",
+        "GitHub: issues, https://github.com/aio-libs/multidict/issues",
+        "GitHub: repo, https://github.com/aio-libs/multidict"
+      ]
+    },
+    {
+      "name": "narwhals",
+      "version": "2.26.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/narwhals-dev/narwhals",
+        "Documentation, https://narwhals-dev.github.io/narwhals/",
+        "Repository, https://github.com/narwhals-dev/narwhals",
+        "Bug Tracker, https://github.com/narwhals-dev/narwhals/issues"
+      ]
+    },
+    {
+      "name": "nbclient",
+      "version": "0.11.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Documentation, https://nbclient.readthedocs.io",
+        "Homepage, https://jupyter.org",
+        "Source, https://github.com/jupyter/nbclient",
+        "Tracker, https://github.com/jupyter/nbclient/issues"
+      ]
+    },
+    {
+      "name": "nbconvert",
+      "version": "7.17.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter.org"
+      ]
+    },
+    {
+      "name": "nbformat",
+      "version": "5.11.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://jupyter.org",
+        "Changelog, https://github.com/jupyter/nbformat/blob/main/CHANGELOG.md",
+        "Documentation, https://nbformat.readthedocs.io/",
+        "Repository, https://github.com/jupyter/nbformat.git"
+      ]
+    },
+    {
+      "name": "nest-asyncio2",
+      "version": "1.7.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "notebook",
+      "version": "7.6.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Documentation, https://jupyter-notebook.readthedocs.io/",
+        "Homepage, https://github.com/jupyter/notebook",
+        "Source, https://github.com/jupyter/notebook",
+        "Tracker, https://github.com/jupyter/notebook/issues"
+      ]
+    },
+    {
+      "name": "notebook_shim",
+      "version": "0.2.4",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "numpy",
+      "version": "2.2.6",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "homepage, https://numpy.org",
+        "documentation, https://numpy.org/doc/",
+        "source, https://github.com/numpy/numpy",
+        "download, https://pypi.org/project/numpy/#files",
+        "tracker, https://github.com/numpy/numpy/issues",
+        "release notes, https://numpy.org/doc/stable/release"
+      ]
+    },
+    {
+      "name": "openpyxl",
+      "version": "3.1.5",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Documentation, https://openpyxl.readthedocs.io/en/stable/",
+        "Source, https://foss.heptapod.net/openpyxl/openpyxl",
+        "Tracker, https://foss.heptapod.net/openpyxl/openpyxl/-/issues"
+      ]
+    },
+    {
+      "name": "opentelemetry-api",
+      "version": "1.44.0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-proto",
+      "version": "1.44.0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-sdk",
+      "version": "1.44.0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "opentelemetry-semantic-conventions",
+      "version": "0.65b0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
+        "Repository, https://github.com/open-telemetry/opentelemetry-python"
+      ]
+    },
+    {
+      "name": "osqp",
+      "version": "1.1.3",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://osqp.org/"
+      ]
+    },
+    {
+      "name": "packaging",
+      "version": "26.3",
+      "licenseMetadata": "Apache-2.0 OR BSD-2-Clause",
+      "projectUrl": [
+        "Documentation, https://packaging.pypa.io/",
+        "Source, https://github.com/pypa/packaging"
+      ]
+    },
+    {
+      "name": "pandas",
+      "version": "2.3.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "homepage, https://pandas.pydata.org",
+        "documentation, https://pandas.pydata.org/docs/",
+        "repository, https://github.com/pandas-dev/pandas"
+      ]
+    },
+    {
+      "name": "pandocfilters",
+      "version": "1.5.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "parso",
+      "version": "0.8.7",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "patsy",
+      "version": "1.0.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "peewee",
+      "version": "3.17.3",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Documentation, http://docs.peewee-orm.com",
+        "Source, https://github.com/coleifer/peewee"
+      ]
+    },
+    {
+      "name": "pillow",
+      "version": "12.3.0",
+      "licenseMetadata": "MIT-CMU",
+      "projectUrl": [
+        "Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+        "Changelog, https://github.com/python-pillow/Pillow/releases",
+        "Documentation, https://pillow.readthedocs.io",
+        "Funding, https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+        "Homepage, https://python-pillow.github.io",
+        "Mastodon, https://fosstodon.org/@pillow",
+        "Source, https://github.com/python-pillow/Pillow"
+      ]
+    },
+    {
+      "name": "pip",
+      "version": "25.0.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Homepage, https://pip.pypa.io/",
+        "Documentation, https://pip.pypa.io",
+        "Source, https://github.com/pypa/pip",
+        "Changelog, https://pip.pypa.io/en/stable/news/"
+      ]
+    },
+    {
+      "name": "platformdirs",
+      "version": "4.11.9",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Changelog, https://platformdirs.readthedocs.io/en/latest/changelog.html",
+        "Documentation, https://platformdirs.readthedocs.io",
+        "Homepage, https://github.com/tox-dev/platformdirs",
+        "Source, https://github.com/tox-dev/platformdirs",
+        "Tracker, https://github.com/tox-dev/platformdirs/issues"
+      ]
+    },
+    {
+      "name": "pluggy",
+      "version": "1.6.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "prettytable",
+      "version": "3.18.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Changelog, https://github.com/prettytable/prettytable/releases",
+        "Funding, https://tidelift.com/subscription/pkg/pypi-prettytable?utm_source=pypi-prettytable&utm_medium=pypi",
+        "Homepage, https://github.com/prettytable/prettytable",
+        "Source, https://github.com/prettytable/prettytable"
+      ]
+    },
+    {
+      "name": "prometheus_client",
+      "version": "0.26.0",
+      "licenseMetadata": "Apache-2.0 AND BSD-2-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/prometheus/client_python",
+        "Documentation, https://prometheus.github.io/client_python/"
+      ]
+    },
+    {
+      "name": "prompt_toolkit",
+      "version": "3.0.53",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/prompt-toolkit/python-prompt-toolkit",
+        "Documentation, https://python-prompt-toolkit.readthedocs.io/en/stable/"
+      ]
+    },
+    {
+      "name": "propcache",
+      "version": "0.5.4",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Workflows, https://github.com/aio-libs/propcache/actions?query=branch:master",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/propcache",
+        "Docs: Changelog, https://propcache.readthedocs.io/en/latest/changes/",
+        "Docs: RTD, https://propcache.readthedocs.io",
+        "GitHub: issues, https://github.com/aio-libs/propcache/issues",
+        "GitHub: repo, https://github.com/aio-libs/propcache"
+      ]
+    },
+    {
+      "name": "protobuf",
+      "version": "6.33.6",
+      "licenseMetadata": "3-Clause BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "psutil",
+      "version": "7.2.2",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": []
+    },
+    {
+      "name": "pure_eval",
+      "version": "0.2.4",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "pyarrow",
+      "version": "25.0.1",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://arrow.apache.org/",
+        "Documentation, https://arrow.apache.org/docs/python",
+        "Repository, https://github.com/apache/arrow",
+        "Issues, https://github.com/apache/arrow/issues"
+      ]
+    },
+    {
+      "name": "pyasn1",
+      "version": "0.6.4",
+      "licenseMetadata": "BSD-2-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/pyasn1/pyasn1",
+        "Documentation, https://pyasn1.readthedocs.io",
+        "Source, https://github.com/pyasn1/pyasn1",
+        "Issues, https://github.com/pyasn1/pyasn1/issues",
+        "Changelog, https://pyasn1.readthedocs.io/en/latest/changelog.html"
+      ]
+    },
+    {
+      "name": "pyasn1_modules",
+      "version": "0.4.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Source, https://github.com/pyasn1/pyasn1-modules",
+        "Issues, https://github.com/pyasn1/pyasn1-modules/issues",
+        "Changelog, https://github.com/pyasn1/pyasn1-modules/blob/master/CHANGES.txt"
+      ]
+    },
+    {
+      "name": "pycparser",
+      "version": "3.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/eliben/pycparser"
+      ]
+    },
+    {
+      "name": "pydantic",
+      "version": "2.13.5",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/pydantic/pydantic",
+        "Documentation, https://docs.pydantic.dev",
+        "Funding, https://github.com/sponsors/samuelcolvin",
+        "Source, https://github.com/pydantic/pydantic",
+        "Changelog, https://docs.pydantic.dev/latest/changelog/"
+      ]
+    },
+    {
+      "name": "pydantic-settings",
+      "version": "2.15.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/pydantic/pydantic-settings",
+        "Funding, https://github.com/sponsors/samuelcolvin",
+        "Source, https://github.com/pydantic/pydantic-settings",
+        "Changelog, https://github.com/pydantic/pydantic-settings/releases",
+        "Documentation, https://docs.pydantic.dev/dev-v2/concepts/pydantic_settings/"
+      ]
+    },
+    {
+      "name": "pydantic_core",
+      "version": "2.46.5",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Funding, https://github.com/sponsors/samuelcolvin",
+        "Homepage, https://github.com/pydantic",
+        "Source, https://github.com/pydantic/pydantic/tree/main/pydantic-core"
+      ]
+    },
+    {
+      "name": "Pygments",
+      "version": "2.21.0",
+      "licenseMetadata": "BSD-2-Clause",
+      "projectUrl": [
+        "Homepage, https://pygments.org",
+        "Documentation, https://pygments.org/docs",
+        "Source, https://github.com/pygments/pygments",
+        "Bug Tracker, https://github.com/pygments/pygments/issues",
+        "Changelog, https://github.com/pygments/pygments/blob/master/CHANGES"
+      ]
+    },
+    {
+      "name": "pymongo",
+      "version": "4.18.1",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Homepage, https://www.mongodb.org",
+        "Documentation, https://www.mongodb.com/docs/languages/python/pymongo-driver/current/",
+        "Source, https://github.com/mongodb/mongo-python-driver",
+        "Tracker, https://jira.mongodb.org/projects/PYTHON/issues"
+      ]
+    },
+    {
+      "name": "pyparsing",
+      "version": "3.3.2",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://pyparsing-docs.readthedocs.io/en/latest/",
+        "Homepage, https://github.com/pyparsing/pyparsing/",
+        "Source, https://github.com/pyparsing/pyparsing.git"
+      ]
+    },
+    {
+      "name": "pyqlib",
+      "version": "0.9.7",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "pytest",
+      "version": "9.1.1",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Changelog, https://docs.pytest.org/en/stable/changelog.html",
+        "Contact, https://docs.pytest.org/en/stable/contact.html",
+        "Funding, https://docs.pytest.org/en/stable/sponsor.html",
+        "Homepage, https://docs.pytest.org/en/latest/",
+        "Source, https://github.com/pytest-dev/pytest",
+        "Tracker, https://github.com/pytest-dev/pytest/issues"
+      ]
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "licenseMetadata": "BSD License; Apache Software License",
+      "projectUrl": [
+        "Documentation, https://dateutil.readthedocs.io/en/stable/",
+        "Source, https://github.com/dateutil/dateutil"
+      ]
+    },
+    {
+      "name": "python-dotenv",
+      "version": "1.2.3",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Source, https://github.com/theskumar/python-dotenv"
+      ]
+    },
+    {
+      "name": "python-json-logger",
+      "version": "4.2.0",
+      "licenseMetadata": "BSD-2-Clause",
+      "projectUrl": [
+        "Homepage, https://nhairs.github.io/python-json-logger",
+        "GitHub, https://github.com/nhairs/python-json-logger"
+      ]
+    },
+    {
+      "name": "python-redis-lock",
+      "version": "4.0.1",
+      "licenseMetadata": "BSD-2-Clause",
+      "projectUrl": [
+        "Changelog, https://python-redis-lock.readthedocs.io/en/latest/changelog.html",
+        "Documentation, https://python-redis-lock.readthedocs.io/",
+        "Issue Tracker, https://github.com/ionelmc/python-redis-lock/issues",
+        "Sources, https://github.com/ionelmc/python-redis-lock"
+      ]
+    },
+    {
+      "name": "pytz",
+      "version": "2026.3.post1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Source, https://github.com/stub42/pytz.git",
+        "Issues, https://github.com/stub42/pytz/issues"
+      ]
+    },
+    {
+      "name": "pywin32",
+      "version": "312",
+      "licenseMetadata": "Python Software Foundation License",
+      "projectUrl": [
+        "Homepage, https://github.com/mhammond/pywin32",
+        "Changes, https://github.com/mhammond/pywin32/blob/main/CHANGES.md",
+        "Docs, https://mhammond.github.io/pywin32/",
+        "Bugs, https://github.com/mhammond/pywin32/issues",
+        "Support Requests, https://github.com/mhammond/pywin32/discussions",
+        "Mailing List, https://mail.python.org/mailman/listinfo/python-win32"
+      ]
+    },
+    {
+      "name": "pywinpty",
+      "version": "3.0.5",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Changelog, https://github.com/andfoy/pywinpty/blob/main/CHANGELOG.md",
+        "Repository, https://github.com/andfoy/pywinpty"
+      ]
+    },
+    {
+      "name": "PyYAML",
+      "version": "6.0.3",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Bug Tracker, https://github.com/yaml/pyyaml/issues",
+        "CI, https://github.com/yaml/pyyaml/actions",
+        "Documentation, https://pyyaml.org/wiki/PyYAMLDocumentation",
+        "Mailing lists, http://lists.sourceforge.net/lists/listinfo/yaml-core",
+        "Source Code, https://github.com/yaml/pyyaml"
+      ]
+    },
+    {
+      "name": "pyzmq",
+      "version": "27.2.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://pyzmq.readthedocs.org",
+        "Documentation, https://pyzmq.readthedocs.org",
+        "Source, https://github.com/zeromq/pyzmq",
+        "Tracker, https://github.com/zeromq/pyzmq/issues"
+      ]
+    },
+    {
+      "name": "qdldl",
+      "version": "0.1.9.post1",
+      "licenseMetadata": "Apache 2.0",
+      "projectUrl": []
+    },
+    {
+      "name": "redis",
+      "version": "8.1.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Changes, https://github.com/redis/redis-py/releases",
+        "Code, https://github.com/redis/redis-py",
+        "Documentation, https://redis.readthedocs.io/en/latest/",
+        "Homepage, https://github.com/redis/redis-py",
+        "Issue tracker, https://github.com/redis/redis-py/issues"
+      ]
+    },
+    {
+      "name": "referencing",
+      "version": "0.37.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://referencing.readthedocs.io/",
+        "Homepage, https://github.com/python-jsonschema/referencing",
+        "Issues, https://github.com/python-jsonschema/referencing/issues/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-referencing?utm_source=pypi-referencing&utm_medium=referral&utm_campaign=pypi-link",
+        "Changelog, https://referencing.readthedocs.io/en/stable/changes/",
+        "Source, https://github.com/python-jsonschema/referencing"
+      ]
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "Documentation, https://requests.readthedocs.io",
+        "Source, https://github.com/psf/requests"
+      ]
+    },
+    {
+      "name": "rfc3339-validator",
+      "version": "0.1.4",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "rfc3986-validator",
+      "version": "0.1.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "rfc3987-syntax",
+      "version": "1.1.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/willynilly/rfc3987-syntax",
+        "Documentation, https://github.com/willynilly/rfc3987-syntax#readme",
+        "Issues, https://github.com/willynilly/rfc3987-syntax/issues",
+        "Source, https://github.com/willynilly/rfc3987-syntax"
+      ]
+    },
+    {
+      "name": "rpds-py",
+      "version": "2026.6.3",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://rpds.readthedocs.io/",
+        "Funding, https://github.com/sponsors/Julian",
+        "Homepage, https://github.com/crate-py/rpds",
+        "Issues, https://github.com/crate-py/rpds/issues/",
+        "Source, https://github.com/crate-py/rpds",
+        "Tidelift, https://tidelift.com/subscription/pkg/pypi-rpds-py?utm_source=pypi-rpds-py&utm_medium=referral&utm_campaign=pypi-link",
+        "Upstream, https://github.com/orium/rpds"
+      ]
+    },
+    {
+      "name": "ruamel.yaml",
+      "version": "0.19.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "Home, https://sourceforge.net/p/ruamel-yaml/",
+        "Source, https://sourceforge.net/p/ruamel-yaml/code/ci/default/tree/",
+        "Tracker, https://sourceforge.net/p/ruamel-yaml/tickets/",
+        "Documentation, https://yaml.dev/doc/ruamel.yaml"
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.7.2",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "homepage, https://scikit-learn.org",
+        "source, https://github.com/scikit-learn/scikit-learn",
+        "download, https://pypi.org/project/scikit-learn/#files",
+        "tracker, https://github.com/scikit-learn/scikit-learn/issues",
+        "release notes, https://scikit-learn.org/stable/whats_new"
+      ]
+    },
+    {
+      "name": "scipy",
+      "version": "1.18.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "homepage, https://scipy.org/",
+        "documentation, https://docs.scipy.org/doc/scipy/",
+        "source, https://github.com/scipy/scipy",
+        "download, https://github.com/scipy/scipy/releases",
+        "tracker, https://github.com/scipy/scipy/issues"
+      ]
+    },
+    {
+      "name": "scs",
+      "version": "3.3.1",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "seaborn",
+      "version": "0.13.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Docs, http://seaborn.pydata.org",
+        "Source, https://github.com/mwaskom/seaborn"
+      ]
+    },
+    {
+      "name": "Send2Trash",
+      "version": "2.1.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/arsenetar/send2trash",
+        "Repository, https://github.com/arsenetar/send2trash.git",
+        "Issues, https://github.com/arsenetar/send2trash/issues"
+      ]
+    },
+    {
+      "name": "setuptools",
+      "version": "84.0.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Source, https://github.com/pypa/setuptools",
+        "Documentation, https://setuptools.pypa.io/",
+        "Changelog, https://setuptools.pypa.io/en/stable/history.html"
+      ]
+    },
+    {
+      "name": "six",
+      "version": "1.17.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "skops",
+      "version": "0.15.0",
+      "licenseMetadata": "OSI Approved",
+      "projectUrl": [
+        "Homepage, http://github.com/skops-dev/skops",
+        "Documentation, https://skops.readthedocs.io/en/stable/",
+        "Repository, http://github.com/skops-dev/skops",
+        "Issues, http://github.com/skops-dev/skops/issues",
+        "Changelog, https://skops.readthedocs.io/en/stable/changes.html"
+      ]
+    },
+    {
+      "name": "smmap",
+      "version": "5.0.3",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "soupsieve",
+      "version": "2.9.2",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/facelessuser/soupsieve"
+      ]
+    },
+    {
+      "name": "sparsediffpy",
+      "version": "0.3.0",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": []
+    },
+    {
+      "name": "SQLAlchemy",
+      "version": "2.0.54",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Documentation, https://docs.sqlalchemy.org",
+        "Issue Tracker, https://github.com/sqlalchemy/sqlalchemy/"
+      ]
+    },
+    {
+      "name": "sqlparse",
+      "version": "0.6.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Home, https://github.com/andialbrecht/sqlparse",
+        "Documentation, https://sqlparse.readthedocs.io/",
+        "Release Notes, https://sqlparse.readthedocs.io/en/latest/changes.html",
+        "Source, https://github.com/andialbrecht/sqlparse",
+        "Tracker, https://github.com/andialbrecht/sqlparse/issues"
+      ]
+    },
+    {
+      "name": "stack-data",
+      "version": "0.6.3",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "starlette",
+      "version": "1.6.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/Kludex/starlette",
+        "Documentation, https://starlette.dev/",
+        "Changelog, https://starlette.dev/release-notes/",
+        "Funding, https://github.com/sponsors/Kludex",
+        "Source, https://github.com/Kludex/starlette"
+      ]
+    },
+    {
+      "name": "statsmodels",
+      "version": "0.15.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "homepage, https://www.statsmodels.org",
+        "documentation, https://www.statsmodels.org/stable/index.html",
+        "repository, https://github.com/statsmodels/statsmodels",
+        "changelog, https://bashtage.github.io/arch/changes.html",
+        "bugtracker, https://github.com/statsmodels/statsmodels/issues"
+      ]
+    },
+    {
+      "name": "tabulate",
+      "version": "0.10.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/astanin/python-tabulate"
+      ]
+    },
+    {
+      "name": "termcolor",
+      "version": "3.3.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Changelog, https://github.com/termcolor/termcolor/releases",
+        "Homepage, https://github.com/termcolor/termcolor",
+        "Source, https://github.com/termcolor/termcolor"
+      ]
+    },
+    {
+      "name": "terminado",
+      "version": "0.18.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/jupyter/terminado"
+      ]
+    },
+    {
+      "name": "threadpoolctl",
+      "version": "3.7.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "homepage, https://github.com/joblib/threadpoolctl"
+      ]
+    },
+    {
+      "name": "tinycss2",
+      "version": "1.5.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Changelog, https://github.com/Kozea/tinycss2/releases",
+        "Code, https://github.com/Kozea/tinycss2/",
+        "Documentation, https://doc.courtbouillon.org/tinycss2/",
+        "Donation, https://opencollective.com/courtbouillon",
+        "Homepage, https://www.courtbouillon.org/tinycss2",
+        "Issues, https://github.com/Kozea/tinycss2/issues"
+      ]
+    },
+    {
+      "name": "tornado",
+      "version": "6.5.10",
+      "licenseMetadata": "Apache Software License",
+      "projectUrl": [
+        "Source, https://github.com/tornadoweb/tornado"
+      ]
+    },
+    {
+      "name": "tqdm",
+      "version": "4.70.1",
+      "licenseMetadata": "MPL-2.0 AND MIT",
+      "projectUrl": [
+        "homepage, https://tqdm.github.io",
+        "repository, https://github.com/tqdm/tqdm",
+        "changelog, https://tqdm.github.io/releases",
+        "wiki, https://github.com/tqdm/tqdm/wiki"
+      ]
+    },
+    {
+      "name": "traitlets",
+      "version": "5.16.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Homepage, https://github.com/ipython/traitlets",
+        "Documentation, https://traitlets.readthedocs.io",
+        "Source, https://github.com/ipython/traitlets",
+        "Tracker, https://github.com/ipython/traitlets/issues"
+      ]
+    },
+    {
+      "name": "typing-inspection",
+      "version": "0.4.4",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/pydantic/typing-inspection",
+        "Documentation, https://pydantic.github.io/typing-inspection/dev/",
+        "Source, https://github.com/pydantic/typing-inspection",
+        "Changelog, https://github.com/pydantic/typing-inspection/blob/main/HISTORY.md"
+      ]
+    },
+    {
+      "name": "typing_extensions",
+      "version": "4.16.0",
+      "licenseMetadata": "PSF-2.0",
+      "projectUrl": [
+        "Bug Tracker, https://github.com/python/typing_extensions/issues",
+        "Changes, https://github.com/python/typing_extensions/blob/main/CHANGELOG.md",
+        "Documentation, https://typing-extensions.readthedocs.io/",
+        "Home, https://github.com/python/typing_extensions",
+        "Q & A, https://github.com/python/typing/discussions",
+        "Repository, https://github.com/python/typing_extensions"
+      ]
+    },
+    {
+      "name": "tzdata",
+      "version": "2026.4",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Bug Reports, https://github.com/python/tzdata/issues",
+        "Source, https://github.com/python/tzdata",
+        "Documentation, https://tzdata.python.org"
+      ]
+    },
+    {
+      "name": "uri-template",
+      "version": "1.3.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": [
+        "homepage, https://gitlab.linss.com/open-source/python/uri-template"
+      ]
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Changelog, https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
+        "Documentation, https://urllib3.readthedocs.io",
+        "Code, https://github.com/urllib3/urllib3",
+        "Issue tracker, https://github.com/urllib3/urllib3/issues",
+        "Security policy, https://urllib3.readthedocs.io/en/latest/security.html"
+      ]
+    },
+    {
+      "name": "uvicorn",
+      "version": "0.53.0",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Changelog, https://uvicorn.dev/release-notes",
+        "Funding, https://github.com/sponsors/Kludex",
+        "Homepage, https://uvicorn.dev/",
+        "Source, https://github.com/Kludex/uvicorn"
+      ]
+    },
+    {
+      "name": "waitress",
+      "version": "3.0.2",
+      "licenseMetadata": "Zope Public License",
+      "projectUrl": [
+        "Documentation, https://docs.pylonsproject.org/projects/waitress/en/latest/index.html",
+        "Changelog, https://docs.pylonsproject.org/projects/waitress/en/latest/index.html#change-history",
+        "Issue Tracker, https://github.com/Pylons/waitress/issues"
+      ]
+    },
+    {
+      "name": "wcwidth",
+      "version": "0.8.3",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Homepage, https://github.com/jquast/wcwidth"
+      ]
+    },
+    {
+      "name": "webcolors",
+      "version": "25.10.0",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Documentation, https://webcolors.readthedocs.io",
+        "Source Code, https://github.com/ubernostrum/webcolors"
+      ]
+    },
+    {
+      "name": "webencodings",
+      "version": "0.6.1",
+      "licenseMetadata": "BSD License",
+      "projectUrl": [
+        "Changelog, https://github.com/CourtBouillon/webencodings/releases",
+        "Code, https://github.com/CourtBouillon/webencodings",
+        "Documentation, https://doc.courtbouillon.org/webencodings",
+        "Donation, https://opencollective.com/courtbouillon",
+        "Homepage, https://github.com/CourtBouillon/webencodings",
+        "Issues, https://github.com/CourtBouillon/webencodings/issues"
+      ]
+    },
+    {
+      "name": "websocket-client",
+      "version": "1.9.2",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Documentation, https://websocket-client.readthedocs.io/",
+        "Source, https://github.com/websocket-client/websocket-client/"
+      ]
+    },
+    {
+      "name": "Werkzeug",
+      "version": "3.1.8",
+      "licenseMetadata": "BSD-3-Clause",
+      "projectUrl": [
+        "Changes, https://werkzeug.palletsprojects.com/page/changes/",
+        "Chat, https://discord.gg/pallets",
+        "Documentation, https://werkzeug.palletsprojects.com/",
+        "Donate, https://palletsprojects.com/donate",
+        "Source, https://github.com/pallets/werkzeug/"
+      ]
+    },
+    {
+      "name": "widgetsnbextension",
+      "version": "4.0.16",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "win32_setctime",
+      "version": "1.2.0",
+      "licenseMetadata": "MIT License",
+      "projectUrl": []
+    },
+    {
+      "name": "wrapt",
+      "version": "2.4.1",
+      "licenseMetadata": "BSD-2-Clause",
+      "projectUrl": [
+        "Homepage, https://github.com/GrahamDumpleton/wrapt",
+        "Bug Tracker, https://github.com/GrahamDumpleton/wrapt/issues/",
+        "Changelog, https://wrapt.readthedocs.io/en/latest/changes.html",
+        "Documentation, https://wrapt.readthedocs.io/"
+      ]
+    },
+    {
+      "name": "xlrd",
+      "version": "2.0.2",
+      "licenseMetadata": "BSD License",
+      "projectUrl": []
+    },
+    {
+      "name": "yarl",
+      "version": "1.25.1",
+      "licenseMetadata": "Apache-2.0",
+      "projectUrl": [
+        "Chat: Matrix, https://matrix.to/#/#aio-libs:matrix.org",
+        "Chat: Matrix Space, https://matrix.to/#/#aio-libs-space:matrix.org",
+        "CI: GitHub Workflows, https://github.com/aio-libs/yarl/actions?query=branch:master",
+        "Code of Conduct, https://github.com/aio-libs/.github/blob/master/CODE_OF_CONDUCT.md",
+        "Coverage: codecov, https://codecov.io/github/aio-libs/yarl",
+        "Docs: Changelog, https://yarl.aio-libs.org/en/latest/changes/",
+        "Docs: RTD, https://yarl.aio-libs.org",
+        "GitHub: issues, https://github.com/aio-libs/yarl/issues",
+        "GitHub: repo, https://github.com/aio-libs/yarl"
+      ]
+    },
+    {
+      "name": "zipp",
+      "version": "4.1.0",
+      "licenseMetadata": "MIT",
+      "projectUrl": [
+        "Source, https://github.com/jaraco/zipp"
+      ]
+    }
+  ],
+  "frontend": [
+    {
+      "packagePath": "node_modules/@babel/code-frame",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/compat-data",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/core",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/generator",
+      "version": "7.29.8",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-compilation-targets",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-globals",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-module-imports",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-module-transforms",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-plugin-utils",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-string-parser",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-validator-identifier",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helper-validator-option",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/helpers",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/parser",
+      "version": "7.29.8",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/plugin-transform-react-jsx-self",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/plugin-transform-react-jsx-source",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/template",
+      "version": "7.29.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/traverse",
+      "version": "7.29.8",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@babel/types",
+      "version": "7.29.8",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/aix-ppc64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/android-arm",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/android-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/android-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/darwin-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/darwin-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/freebsd-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/freebsd-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-arm",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-ia32",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-loong64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-mips64el",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-ppc64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-riscv64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-s390x",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/linux-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/netbsd-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/netbsd-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/openbsd-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/openbsd-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/openharmony-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/sunos-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/win32-arm64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/win32-ia32",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@esbuild/win32-x64",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@jridgewell/gen-mapping",
+      "version": "0.3.13",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@jridgewell/remapping",
+      "version": "2.3.5",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@jridgewell/resolve-uri",
+      "version": "3.1.2",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@jridgewell/sourcemap-codec",
+      "version": "1.6.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@jridgewell/trace-mapping",
+      "version": "0.3.31",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@napi-rs/lzma-linux-x64-gnu",
+      "version": "1.5.1",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rolldown/pluginutils",
+      "version": "1.0.0-rc.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-android-arm-eabi",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-android-arm64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-darwin-arm64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-darwin-x64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-freebsd-arm64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-freebsd-x64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-arm-gnueabihf",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-arm-musleabihf",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-arm64-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-arm64-musl",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-loong64-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-loong64-musl",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-ppc64-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-ppc64-musl",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-riscv64-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-riscv64-musl",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-s390x-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-x64-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-linux-x64-musl",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-openbsd-x64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-openharmony-arm64",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-win32-arm64-msvc",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-win32-ia32-msvc",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-win32-x64-gnu",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@rollup/rollup-win32-x64-msvc",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@standard-schema/spec",
+      "version": "1.1.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/babel__core",
+      "version": "7.20.5",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/babel__generator",
+      "version": "7.27.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/babel__template",
+      "version": "7.4.4",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/babel__traverse",
+      "version": "7.28.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/chai",
+      "version": "5.2.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/deep-eql",
+      "version": "4.0.2",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/estree",
+      "version": "1.0.9",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/react",
+      "version": "19.2.14",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@types/react-dom",
+      "version": "19.2.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitejs/plugin-react",
+      "version": "5.1.4",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/expect",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/mocker",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/pretty-format",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/runner",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/snapshot",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/spy",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/@vitest/utils",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/assertion-error",
+      "version": "2.0.1",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/baseline-browser-mapping",
+      "version": "2.11.24",
+      "licenseMetadata": "Apache-2.0"
+    },
+    {
+      "packagePath": "node_modules/browserslist",
+      "version": "4.29.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/caniuse-lite",
+      "version": "1.0.30001810",
+      "licenseMetadata": "CC-BY-4.0"
+    },
+    {
+      "packagePath": "node_modules/chai",
+      "version": "6.2.2",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/convert-source-map",
+      "version": "2.0.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/csstype",
+      "version": "3.2.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/debug",
+      "version": "4.4.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/echarts",
+      "version": "6.0.0",
+      "licenseMetadata": "Apache-2.0"
+    },
+    {
+      "packagePath": "node_modules/electron-to-chromium",
+      "version": "1.5.430",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/es-module-lexer",
+      "version": "1.7.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/esbuild",
+      "version": "0.27.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/escalade",
+      "version": "3.2.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/estree-walker",
+      "version": "3.0.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/expect-type",
+      "version": "1.4.0",
+      "licenseMetadata": "Apache-2.0"
+    },
+    {
+      "packagePath": "node_modules/fdir",
+      "version": "6.5.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/fsevents",
+      "version": "2.3.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/gensync",
+      "version": "1.0.0-beta.2",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/js-tokens",
+      "version": "4.0.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/jsesc",
+      "version": "3.1.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/json5",
+      "version": "2.2.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/lru-cache",
+      "version": "5.1.1",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/lucide-react",
+      "version": "0.577.0",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/magic-string",
+      "version": "0.30.21",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/ms",
+      "version": "2.1.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/nanoid",
+      "version": "3.3.19",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/node-releases",
+      "version": "2.0.55",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/obug",
+      "version": "2.2.1",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/pathe",
+      "version": "2.0.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/picocolors",
+      "version": "1.1.1",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/picomatch",
+      "version": "4.0.7",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/postcss",
+      "version": "8.5.28",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/prettier",
+      "version": "3.6.2",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/react",
+      "version": "19.2.4",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/react-dom",
+      "version": "19.2.4",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/react-refresh",
+      "version": "0.18.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/rollup",
+      "version": "4.63.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/scheduler",
+      "version": "0.27.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/semver",
+      "version": "6.3.1",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/siginfo",
+      "version": "2.0.0",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/source-map-js",
+      "version": "1.2.1",
+      "licenseMetadata": "BSD-3-Clause"
+    },
+    {
+      "packagePath": "node_modules/stackback",
+      "version": "0.0.2",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/std-env",
+      "version": "3.10.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/tinybench",
+      "version": "2.9.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/tinyexec",
+      "version": "1.3.1",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/tinyglobby",
+      "version": "0.2.17",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/tinyrainbow",
+      "version": "3.1.1",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/tslib",
+      "version": "2.3.0",
+      "licenseMetadata": "0BSD"
+    },
+    {
+      "packagePath": "node_modules/typescript",
+      "version": "5.9.3",
+      "licenseMetadata": "Apache-2.0"
+    },
+    {
+      "packagePath": "node_modules/update-browserslist-db",
+      "version": "1.3.3",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/vite",
+      "version": "7.3.1",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/vitest",
+      "version": "4.0.18",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/why-is-node-running",
+      "version": "2.3.0",
+      "licenseMetadata": "MIT"
+    },
+    {
+      "packagePath": "node_modules/yallist",
+      "version": "3.1.1",
+      "licenseMetadata": "ISC"
+    },
+    {
+      "packagePath": "node_modules/zrender",
+      "version": "6.0.0",
+      "licenseMetadata": "BSD-3-Clause"
+    }
+  ]
+}

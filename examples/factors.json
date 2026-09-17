@@ -1,0 +1,12 @@
+[
+  {"id":"momentum_20","version":1,"name":"20日动量","expression":"$close / Ref($close, 20) - 1","direction":1,"description":"过去20个交易日价格变化，方向为实验初始配置。"},
+  {"id":"momentum_60","version":1,"name":"60日动量","expression":"$close / Ref($close, 60) - 1","direction":1,"description":"过去60个交易日价格变化。"},
+  {"id":"reversal_5","version":1,"name":"5日反转","expression":"$close / Ref($close, 5) - 1","direction":-1,"description":"短期收益的反向排序。"},
+  {"id":"volatility_20","version":1,"name":"20日波动率","expression":"Std($close / Ref($close, 1) - 1, 20)","direction":-1,"description":"日收益滚动标准差，初始方向偏向低波动。"},
+  {"id":"range_20","version":1,"name":"20日平均振幅","expression":"Mean(($high - $low) / $close, 20)","direction":-1,"description":"日内高低价幅度相对收盘价的滚动均值。"},
+  {"id":"volume_ratio","version":1,"name":"短长成交量比","expression":"Mean($volume, 5) / (Mean($volume, 20) + 1e-12) - 1","direction":1,"description":"短期与较长期成交量的相对变化。"},
+  {"id":"volume_cv","version":1,"name":"成交量变异系数","expression":"Std($volume, 20) / (Mean($volume, 20) + 1e-12)","direction":-1,"description":"成交量波动相对其均值。"},
+  {"id":"price_volume_corr","version":1,"name":"20日价量相关","expression":"Corr($close, Log($volume + 1), 20)","direction":1,"description":"收盘价与对数成交量的时间序列相关。"},
+  {"id":"close_position","version":1,"name":"收盘区间位置","expression":"($close - $low) / ($high - $low + 1e-12)","direction":1,"description":"收盘价在当日高低价区间的位置。"},
+  {"id":"price_vwap","version":1,"name":"收盘与VWAP偏离","expression":"$close / ($vwap + 1e-12) - 1","direction":-1,"description":"收盘价相对成交量加权均价的偏离；VWAP必须有明确金额/股数来源。"}
+]
